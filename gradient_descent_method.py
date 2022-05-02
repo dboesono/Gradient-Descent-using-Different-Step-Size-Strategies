@@ -186,11 +186,3 @@ def plot(xs, ys):
 x0 = np.array([3,3])
 x,y = gradient_descent(objective, gradient, init=x0)
 plot(x,y)
-
-    
-    
-    
-    
-    
-    
-    
